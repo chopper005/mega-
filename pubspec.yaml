@@ -57,7 +57,7 @@ flutter:
   - lib/assets/nationality.png
   - lib/assets/domecile.png
   - lib/assets/marksheet.png
-
+  - lib/assets/dyp.png
 uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
